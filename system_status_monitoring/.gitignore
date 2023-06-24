@@ -1,0 +1,9 @@
+.idea
+__pycache__
+Include
+Lib
+Scripts
+templates
+db.sqlite3
+pyvenv.cfg
+result.py
